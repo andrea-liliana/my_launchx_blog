@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Andrea Gómez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://andrea-liliana.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://andrea-liliana.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi aprendizaje en LaunchX</title>
+      <link>https://andrea-liliana.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrea-liliana.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Escribe un recuento de todo lo que has aprendido en Launch X desde la semana de inducción, hasta el módulo de Frontend. El cielo es el límite, puedes contarnos qué te ha gustado más, qué te ha gustado menos, qué te ha parecido más difícil. Recuerda que comunicar es una habilidad que se desarrolla con mucha práctica y tiempo.</description>
+    </item>
+    
     <item>
       <title>La cultura de un desarroll@dor de software.</title>
       <link>https://andrea-liliana.github.io/my_launchx_blog/posts/intro/</link>
